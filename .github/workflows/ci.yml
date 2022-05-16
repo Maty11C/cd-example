@@ -30,3 +30,4 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_email: matiasrodrigocabrera@gmail.com
           heroku_app_name: cd-example
+          branch: github-actions
